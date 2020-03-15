@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.1875d301.chunk.css",
+    "main.js": "/website/static/js/main.3b472d95.chunk.js",
+    "main.js.map": "/website/static/js/main.3b472d95.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.1adc4307.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.1adc4307.js.map",
+    "static/css/2.de84cf36.chunk.css": "/website/static/css/2.de84cf36.chunk.css",
+    "static/js/2.46512430.chunk.js": "/website/static/js/2.46512430.chunk.js",
+    "static/js/2.46512430.chunk.js.map": "/website/static/js/2.46512430.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.22d106c1739b41fc861a4412b3ce5ce9.js": "/website/precache-manifest.22d106c1739b41fc861a4412b3ce5ce9.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/2.de84cf36.chunk.css.map": "/website/static/css/2.de84cf36.chunk.css.map",
+    "static/css/main.1875d301.chunk.css.map": "/website/static/css/main.1875d301.chunk.css.map",
+    "static/js/2.46512430.chunk.js.LICENSE.txt": "/website/static/js/2.46512430.chunk.js.LICENSE.txt",
+    "static/media/HasiToPhasi.jpeg": "/website/static/media/HasiToPhasi.c669b5df.jpeg",
+    "static/media/LaheLahe.jpeg": "/website/static/media/LaheLahe.1f826754.jpeg",
+    "static/media/Sanity.jpeg": "/website/static/media/Sanity.e65e722c.jpeg",
+    "static/media/WomensMedley.jpg": "/website/static/media/WomensMedley.e93910e9.jpg",
+    "static/media/semantic.min.css": "/website/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1adc4307.js",
+    "static/css/2.de84cf36.chunk.css",
+    "static/js/2.46512430.chunk.js",
+    "static/css/main.1875d301.chunk.css",
+    "static/js/main.3b472d95.chunk.js"
+  ]
+}
