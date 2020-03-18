@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.7fa2b7cb.chunk.css",
-    "main.js": "/website/static/js/main.205e985a.chunk.js",
-    "main.js.map": "/website/static/js/main.205e985a.chunk.js.map",
+    "main.css": "/website/static/css/main.39c6c556.chunk.css",
+    "main.js": "/website/static/js/main.3353598a.chunk.js",
+    "main.js.map": "/website/static/js/main.3353598a.chunk.js.map",
     "runtime-main.js": "/website/static/js/runtime-main.1adc4307.js",
     "runtime-main.js.map": "/website/static/js/runtime-main.1adc4307.js.map",
     "static/css/2.de84cf36.chunk.css": "/website/static/css/2.de84cf36.chunk.css",
-    "static/js/2.cb9b2533.chunk.js": "/website/static/js/2.cb9b2533.chunk.js",
-    "static/js/2.cb9b2533.chunk.js.map": "/website/static/js/2.cb9b2533.chunk.js.map",
+    "static/js/2.bce08cdf.chunk.js": "/website/static/js/2.bce08cdf.chunk.js",
+    "static/js/2.bce08cdf.chunk.js.map": "/website/static/js/2.bce08cdf.chunk.js.map",
     "index.html": "/website/index.html",
-    "precache-manifest.18acea42ff213a7aa1328b1606da2f3c.js": "/website/precache-manifest.18acea42ff213a7aa1328b1606da2f3c.js",
+    "precache-manifest.e7033c6520f95911d4326fb1c328de4b.js": "/website/precache-manifest.e7033c6520f95911d4326fb1c328de4b.js",
     "service-worker.js": "/website/service-worker.js",
     "static/css/2.de84cf36.chunk.css.map": "/website/static/css/2.de84cf36.chunk.css.map",
-    "static/css/main.7fa2b7cb.chunk.css.map": "/website/static/css/main.7fa2b7cb.chunk.css.map",
-    "static/js/2.cb9b2533.chunk.js.LICENSE.txt": "/website/static/js/2.cb9b2533.chunk.js.LICENSE.txt",
+    "static/css/main.39c6c556.chunk.css.map": "/website/static/css/main.39c6c556.chunk.css.map",
+    "static/js/2.bce08cdf.chunk.js.LICENSE.txt": "/website/static/js/2.bce08cdf.chunk.js.LICENSE.txt",
     "static/media/HasiToPhasi.jpeg": "/website/static/media/HasiToPhasi.c669b5df.jpeg",
     "static/media/LaheLahe.jpeg": "/website/static/media/LaheLahe.1f826754.jpeg",
     "static/media/Sanity.jpeg": "/website/static/media/Sanity.e65e722c.jpeg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.1adc4307.js",
     "static/css/2.de84cf36.chunk.css",
-    "static/js/2.cb9b2533.chunk.js",
-    "static/css/main.7fa2b7cb.chunk.css",
-    "static/js/main.205e985a.chunk.js"
+    "static/js/2.bce08cdf.chunk.js",
+    "static/css/main.39c6c556.chunk.css",
+    "static/js/main.3353598a.chunk.js"
   ]
 }
